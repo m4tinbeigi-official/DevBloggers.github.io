@@ -1,5 +1,16 @@
 [
   {
+    "name": "ریک سانچز (Rick Sanchez)",
+    "handle": "m4tinbeigi",
+    "category": "هوش مصنوعی و یادگیری عمیق",
+    "role": "وایب کدینگ، هوش مصنوعی خودمختار و معمار سیستم",
+    "bio": "توسعه‌دهنده سیستم‌های خودمختار ایجنتیک، پیشگام وایب کدینگ (Vibe Coding) و معمار نرم‌افزار.",
+    "followers": "350K",
+    "engagement": "9.9%",
+    "verified": true,
+    "avatar": "avatars/m4tinbeigi.jpg"
+  },
+  {
     "name": "جادی میرمیرانی (Jadi)",
     "handle": "jadi.jadi",
     "category": "فرهنگ نرم‌افزار آزاد و لینوکس",
@@ -1087,16 +1098,5 @@
     "engagement": "7.6%",
     "verified": true,
     "avatar": "avatars/devbloggers_بهزاد_ورم_91.jpg"
-  },
-  {
-    "name": "جاوید پای‌کونف",
-    "handle": "devbloggers_جاوید_پایکونف",
-    "category": "بک‌اند و پایتون / گو",
-    "role": "کارشناس ارشد بک‌اند و پایتون / گو",
-    "bio": "تولیدکننده محتوا و فعال باسابقه در حوزه بک‌اند و پایتون / گو با انتشار آموزش‌ها، مقالات تخصصی، تجربیات عملی و نقد تکنولوژی.",
-    "followers": "57K",
-    "engagement": "9.1%",
-    "verified": false,
-    "avatar": "avatars/devbloggers_جاوید_پایکونف.jpg"
   }
 ]
