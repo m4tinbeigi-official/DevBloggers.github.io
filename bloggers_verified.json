@@ -1,0 +1,90 @@
+[
+  {
+    "name": "ریک سانچز (Rick Sanchez)",
+    "handle": "m4tinbeigi",
+    "category": "هوش مصنوعی و سیستم‌های خودمختار",
+    "role": "وایب کدینگ و معمار نرم‌افزار",
+    "bio": "توسعه‌دهنده سیستم‌های هوشمند، ایجنت‌های خودمختار و وایب کدینگ.",
+    "avatar": "avatars/m4tinbeigi.jpg"
+  },
+  {
+    "name": "جادی میرمیرانی (Jadi)",
+    "handle": "jadi.jadi",
+    "category": "لینوکس و پایتون",
+    "role": "مروج نرم‌افزار آزاد و گیک",
+    "bio": "پادکست رادیو گیک، آموزش‌های متن‌باز و فرهنگ گیک و برنامه‌نویسی.",
+    "avatar": "avatars/jadi.jadi.jpg"
+  },
+  {
+    "name": "میلاد نوری",
+    "handle": "milad_nouri",
+    "category": "معماری نرم‌افزار و فناوری",
+    "role": "توسعه‌دهنده باسابقه",
+    "bio": "تحلیل‌گر فناوری، مهندسی نرم‌افزار و چالش‌های اکوسیستم استارتاپی.",
+    "avatar": "avatars/milad_nouri.jpg"
+  },
+  {
+    "name": "امین خسروی",
+    "handle": "aminkhs",
+    "category": "فرانت‌اند و ری‌اکت",
+    "role": "مهندس ارشد فرانت‌اند",
+    "bio": "آموزش حرفه‌ای ری‌اکت، نکست‌جی‌اس و معماری مدرن وب.",
+    "avatar": "avatars/aminkhs.jpg"
+  },
+  {
+    "name": "لقمان آوند",
+    "handle": "loghmanavand",
+    "category": "آموزش برنامه‌نویسی",
+    "role": "بنیان‌گذار سون‌لرن",
+    "bio": "مدرس دوره‌های وب، فول‌استک و منتورینگ شغلی برنامه‌نویسان.",
+    "avatar": "avatars/loghmanavand.jpg"
+  },
+  {
+    "name": "پوریا علیخانی",
+    "handle": "pouria_alikhani",
+    "category": "فرانت‌اند و UI",
+    "role": "توسعه‌دهنده وب",
+    "bio": "طراحی رابط‌های کاربری مدرن، تیلویند و سیستم‌های دیزاین کدبیس.",
+    "avatar": "avatars/pouria_alikhani.jpg"
+  },
+  {
+    "name": "آرش میلانی",
+    "handle": "arash_milani",
+    "category": "سیستم‌های مقیاس‌پذیر",
+    "role": "مشاور نرم‌افزار",
+    "bio": "معماری نرم‌افزارهای بزرگ‌مقیاس، کلین‌کد و متدولوژی چابک.",
+    "avatar": "avatars/arash_milani.jpg"
+  },
+  {
+    "name": "حسین ایوبی",
+    "handle": "hossein_ayoubi",
+    "category": "بک‌اند و پایتون",
+    "role": "توسعه‌دهنده بک‌اند",
+    "bio": "برنامه‌نویسی پایتون، جنگو، فست‌ای‌پی‌آی و طراحی دیتابیس.",
+    "avatar": "avatars/hossein_ayoubi.jpg"
+  },
+  {
+    "name": "آهورا نیازی",
+    "handle": "ahooraniazi",
+    "category": "تکنولوژی و سخت‌افزار",
+    "role": "بررسی‌کننده گجت",
+    "bio": "بررسی تخصصی گجت‌ها، سخت‌افزار و ابزارهای تکنولوژی.",
+    "avatar": "avatars/ahooraniazi.jpg"
+  },
+  {
+    "name": "مهدی شجاعی",
+    "handle": "mehdi_dev",
+    "category": "موبایل و فلاتر",
+    "role": "توسعه‌دهنده فلاتر",
+    "bio": "برنامه‌نویسی اپلیکیشن‌های کراس‌پلتفرم و موبایل.",
+    "avatar": "avatars/mehdi_dev.jpg"
+  },
+  {
+    "name": "علیرضا افشار",
+    "handle": "alirezaafshar",
+    "category": "تکنولوژی و وب",
+    "role": "توسعه‌دهنده وب",
+    "bio": "آموزش تکنولوژی‌های نوین وب و ابزارهای توسعه.",
+    "avatar": "avatars/alirezaafshar.jpg"
+  }
+]
